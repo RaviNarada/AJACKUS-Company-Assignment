@@ -22,26 +22,8 @@ I used **HTML** for the page structure, **CSS** for how it looks and to make it 
 ## How the Project is Organized
 
 Here's a look at how the project files are structured. This helps keep everything neat and easy to find:
+![alt text](image.png)
 
-employee-directory/
-├── src/
-│   ├── main/
-│   │   ├── resources/
-│   │   │   ├── templates/
-│   │   │   │   └── dashboard.ftlh   (Just a placeholder to show how a template might fit in)
-│   │   │   └── static/
-│   │   │       ├── css/
-│   │   │       │   └── style.css      (All the styling for the app)
-│   │   │       ├── js/
-│   │   │       │   ├── data.js        (Where I keep the sample employee data)
-│   │   │       │   └── app.js         (All the main code for how the app works)
-├── index.html                  (The main page you open in your browser)
-├── README.md                   (This file you're reading!)
-├── screenshots/                (A folder for pictures of the app)
-│   ├── dashboard_desktop.png
-│   ├── dashboard_mobile.png
-│   ├── add_edit_form.png
-│   └── filter_sort_search.png
 
 
 * `index.html`: This is the main file. Just open it in your browser to start the app.
