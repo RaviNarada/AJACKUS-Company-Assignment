@@ -23,35 +23,6 @@ I used **HTML** for the page structure, **CSS** for how it looks and to make it 
 
 Here's a look at how the project files are structured. This helps keep everything neat and easy to find:
 
-Here's the content of the README.md file, which you can easily copy and paste:
-
-Markdown
-
-# Employee Directory Web Interface
-
-**Live Demo:** <https://your-live-demo-link.com> (Please replace this with your actual deployed link)
-
-This is an **Employee Directory Web Interface** that I built to manage employee information. I made it using **HTML, CSS, and plain JavaScript**. It's a responsive and easy-to-use application where you can see, add, change, and remove employee details. I also added features like searching, filtering, sorting, and pagination to make it easier to find and manage employees. All the employee data is stored right in your browser (not on a server), which is great for a quick demo.
-
-## What It Does & How It's Built
-
-I used **HTML** for the page structure, **CSS** for how it looks and to make it work well on different screen sizes, and **vanilla JavaScript** for all the interactive parts. Here are the main things it can do:
-
-* **Show Employees:** Displays all employees in a clean grid layout.
-* **Add Employees:** You can add new employees using a form, and it checks if you've filled everything correctly.
-* **Edit Employees:** You can easily update an employee's details by clicking "Edit" and changing the info in the form.
-* **Delete Employees:** You can remove an employee, and it will ask you to confirm first.
-* **Search:** Type in a name or email to quickly find employees.
-* **Filter:** Narrow down the list by choosing a department or job role.
-* **Sort:** Arrange employees by their first name or department.
-* **Pagination:** If there are many employees, it splits them into pages, so you can browse through them easily. You can also choose how many employees to show per page.
-* **Works on Any Device:** The design adjusts automatically, so it looks good on desktops, tablets, and phones.
-* **Form Checks:** It makes sure you fill in all the necessary fields and that emails are in the right format.
-
-## How the Project is Organized
-
-Here's a look at how the project files are structured. This helps keep everything neat and easy to find:
-
 employee-directory/
 ├── src/
 │   ├── main/
