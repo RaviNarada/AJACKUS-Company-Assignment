@@ -1,6 +1,6 @@
 # Employee Directory Web Interface
 
-**Live Demo:** <https://your-live-demo-link.com> (Please replace this with your actual deployed link)
+**Live Demo:** <[https://your-live-demo-link.com](https://ajackus-company-assignment-eta.vercel.app/)> (Please replace this with your actual deployed link)
 
 This is an **Employee Directory Web Interface** that I built to manage employee information. I made it using **HTML, CSS, and plain JavaScript**. It's a responsive and easy-to-use application where you can see, add, change, and remove employee details. I also added features like searching, filtering, sorting, and pagination to make it easier to find and manage employees. All the employee data is stored right in your browser (not on a server), which is great for a quick demo.
 
